@@ -1,0 +1,24 @@
+*
+{
+    background-color: black;
+    background-position-x: center;
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+.we{
+    padding: 0;
+    margin: 0;
+}
+.we h1{
+    text-align: center;
+    color: white;
+}
+.we h2{
+    color: white;
+    text-align: left;
+}
+.we ko{
+    width: 600;
+    display: flex;
+justify-content: right;
+}
